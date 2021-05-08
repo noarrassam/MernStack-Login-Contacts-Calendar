@@ -35,6 +35,10 @@ It's Full stack MERN application with a custom Express backend API that uses JWT
 
 ![![Add Contacts]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/3.JPG)
 
+* **Contacts**
+
+![![Contacts]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/6.JPG)
+
 * **Calendar**
 
 ![![Calendar]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/7.JPG)
