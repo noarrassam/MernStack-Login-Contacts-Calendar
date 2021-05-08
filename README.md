@@ -23,6 +23,6 @@ It's Full stack MERN application with a custom Express backend API that uses JWT
 2. Manage Contacts.
 3. Calendar.
 
-![Login](images/1.jpg)
+![Login](../images/1.jpg)
 
 
