@@ -20,9 +20,12 @@ It's Full stack MERN application with a custom Express backend API that uses JWT
 
 ## Features
 1. Login & Registration.
-2. Manage Contacts.
-3. Calendar.
+2. Manage Contact Lists.
+3. Full Calendar.
 
-![ScreenShot](1.jpg)
+![](./images/1.jpg)
+
+
+
 
 
