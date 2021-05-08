@@ -1,6 +1,6 @@
 # Name: Noar Rassam
 
-# Mern Stack Project
+# Computer Crew - Mern Stack Project
 
 ## Description
 It's Full stack MERN application with a custom Express backend API that uses JWT (JSON Web Token) for authentication.
