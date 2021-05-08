@@ -23,30 +23,30 @@ It's Full stack MERN application with a custom Express backend API that uses JWT
 2. Manage Contact Lists.
 3. Full Calendar.
 
-### **Login**
+## **Login**
 
 ![![Login]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/1.JPG)
 
-### **Registration**
+## **Registration**
 
 ![![Registration]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/2.JPG)
 
-### **Add Contacts**
+## **Add Contacts**
 
 ![![Add Contacts]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/3.JPG)
 
-### **Contacts**
+## **Contacts**
 
 ![![Contacts]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/6.JPG)
 
-### **Calendar**
+## **Calendar**
 
 ![![Calendar]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/7.JPG)
 
-### **Add Events**
+## **Add Events**
 
 ![![Add Events]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/8.JPG)
 
-### **Calendar Events**
+## **Calendar Events**
 
 ![![Calendar Events]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/9.JPG)
