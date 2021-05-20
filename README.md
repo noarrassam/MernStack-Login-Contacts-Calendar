@@ -1,15 +1,15 @@
-## License & copyright
-
-© Noar Rassam
-
-Licensed under the [MIT License](License).
-
 # Name: Noar Rassam
 
 # Computer Crew - Mern Stack Project
 
 # Deployment Link: 
 * https://stormy-dusk-51591.herokuapp.com/
+
+## License & copyright
+
+© Noar Rassam
+
+Licensed under the [MIT License](License).
 
 ## Description
 It's Full stack MERN application with a custom Express backend API that uses JWT (JSON Web Token) for authentication.
