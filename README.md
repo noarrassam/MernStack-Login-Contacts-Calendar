@@ -26,7 +26,7 @@ It's Full stack MERN application with a custom Express backend API that uses JWT
 2. Manage Contact Lists.
 3. Full Calendar.
 
-## License & copyright
+## License & Copyright
 
 © Noar Rassam
 
