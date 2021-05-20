@@ -53,3 +53,9 @@ It's Full stack MERN application with a custom Express backend API that uses JWT
 ## **Calendar Events**
 
 ![![Calendar Events]()](https://github.com/noarrassam/MernStack-Login-Contacts-Calendar/blob/master/images/9.JPG)
+
+## License & copyright
+
+© Noar Rassam
+
+Licensed under the [MIT License](License).
