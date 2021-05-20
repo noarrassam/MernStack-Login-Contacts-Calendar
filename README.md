@@ -2,7 +2,8 @@
 
 # Computer Crew - Mern Stack Project
 
-# Deployment Link: https://stormy-dusk-51591.herokuapp.com/
+# Deployment Link: 
+* https://stormy-dusk-51591.herokuapp.com/
 
 ## Description
 It's Full stack MERN application with a custom Express backend API that uses JWT (JSON Web Token) for authentication.
