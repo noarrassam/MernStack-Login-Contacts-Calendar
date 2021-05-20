@@ -34,7 +34,7 @@ Licensed under the [MIT License](License).
 
 ## Cited Through Udemy Course.
 
-Link: [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/).
+[React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/).
 
 ## **Login**
 
