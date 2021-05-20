@@ -32,7 +32,7 @@ It's Full stack MERN application with a custom Express backend API that uses JWT
 
 Licensed under the [MIT License](License).
 
-## Cited Through Udemy Course.
+## Cited Through Udemy Course (Login and Contacts).
 
 React Front to Back - [Project 2 Start [Contact Keeper - MERN] & Express Server Setup](https://www.udemy.com/course/modern-react-front-to-back/).
 
