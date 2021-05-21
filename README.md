@@ -28,7 +28,7 @@ It's Full stack MERN application with a custom Express backend API that uses JWT
 
 ## References
 
-* Udemy Course, Project 2 Start [Contact Keeper - MERN] & Express Server Setup [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/).
+* Traversy, B. 2021. Project 2 Start [Contact Keeper - MERN] & Express Server Setup [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/).
 
 ## **Login**
 
